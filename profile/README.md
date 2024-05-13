@@ -19,6 +19,9 @@ We support this movement as a way to help everyone in the community wanting to f
 **Nearznn**
 - Community Manager
 
+**Bathtubfulloftoast**
+- Wiki developer for Legacy4J/Re-Console
+
 ## 🤝 Our Partners
 
 **Cixon**
